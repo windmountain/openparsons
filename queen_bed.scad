@@ -174,7 +174,7 @@ module SideRail() {
 module Mattress(width, height, thickness) {
     translate([125, 125, 125])
     cube([width - 250, thickness - 250, height - 250]);
-
+}
 
 
 /*//////////////////////////////////////////////////////
